@@ -28,6 +28,7 @@ int main(void) {
 		"\n r - roll"
 		"\n h - help"
 		"\n s - show balance"
+		"\n k - double the amount of money you currently have"
 		"\n c - cashout and go home"
 		"\n t - credits \n  ");
 
@@ -183,6 +184,16 @@ int main(void) {
 			case 's':
 
 				sCase();
+
+				break;
+
+
+			case 'k':
+
+				kCase();
+
+				printf("What now?\n");
+				scanf("%c", &option);
 
 				break;
 
