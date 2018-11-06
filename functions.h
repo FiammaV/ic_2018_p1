@@ -192,6 +192,16 @@ void rCase() {
 }
 
 
+void kCase() {
+
+	printf("You little cheater...\n");
+
+	balance = balance * 2;
+
+	printf("Your current balance is: %d\n", balance);
+
+}
+
 // Function for the H option
 void hCase () {
 
