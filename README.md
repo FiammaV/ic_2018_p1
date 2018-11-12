@@ -1,4 +1,4 @@
-# Simplexity
+# Russian Roulette
 
 ## Who did this project?
 
