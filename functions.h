@@ -196,8 +196,8 @@ void rCase() {
 void hCase () {
 
 	// Explanation of the game.
-	printf("***************** HELP *****************\n");
-	printf(" - 1st choose 'b' to bet between 1 to 100. Alright?\n  ");
+	printf("\n      ***************** HELP *****************\n");
+	printf("\n - 1st choose 'b' to bet between 1 to 100. Alright?\n  ");
 	printf("\n - NOW, only after you made a bet you may choose 3 conditions, 'n', 'e', 'o'\n  ");
 	printf(" - 'n' -> You will bet on numbers between 1 to 36, and win up to 35x the amount you bet.\n  ");
 	printf(" - 'e' -> You will bet on even numbers, and get up to double the amount you bet.\n  ");
