@@ -9,6 +9,11 @@
   * a21705494
 
 
+## Git repository
+For this work, we worked in a repository, which you can find here: _https://github.com/FiammaV/ic_2018_p1_
+
+
+
 ## Our solution
 
 We made a roulette game in which we used a _switch case_ to register all the possible options the player can give, and a separate file in which we stored all functions necessary for all cases, inside a _while_, to keep the game running until the player decided to quit, by choosing the option _'c'_. We used _if_'s and _else_'s for our verification methods, a lot of imagination to make it fun for the player. ;)
