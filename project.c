@@ -200,7 +200,7 @@ int main(void) {
 
 			// Avaliation
 			case 't':
-			printf(" \n - Made by <3 Inês Nunes nº2170???? ");
+			printf(" \n - Made by <3 Inês Nunes nº21702520 ");
 			printf(" \n       and <3 Sara Gama  nº21705494 ");
 				break;
 
